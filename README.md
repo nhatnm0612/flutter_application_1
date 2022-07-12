@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-For starting, firt you have to understand this is purely use for local login to
+For starting, first you have to understand this is purely use for local login to
 Odoo server (you can use this for remote login, but not quite recommend), and I
 built this for learning Dart & Flutter, please don't judge my code.
 
